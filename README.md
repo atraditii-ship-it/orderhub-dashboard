@@ -6,4 +6,4 @@ Auto-generated dashboard for OrderHub. Updated every 5 minutes.
 
 Password required (criptat client-side AES-256-GCM).
 
-Last sync: 2026-06-30T07:16:55.090458
+Last sync: 2026-06-30T17:59:38.124079
